@@ -249,7 +249,7 @@ Article | Encouragement | Reflections | Society
 
 From reading the articles, it might be difficult to distinguish between *Encouragement* and *Reflections*. This is because all articles contain some mixture of the two, and because there is probably some conceptual overlap between these topics. 
 
-An interesting result is that articles about *Society* tended to be those that were not from his weekly column -- they tended to be profiles, interviews, and obituaries of prominent figures in Malaysia's civil society and business world. Most of these articles were found in the business section of the newspaper -- where he also contributed some writings.
+An interesting result is that articles about *Society* tended to be those that were not from his weekly column -- they tended to be profiles, interviews, and obituaries of prominent figures in Malaysia's civil society and business world. Most of these articles were found in the business section of the newspaper -- where he also contributed some writings.(It is also worth noting that the article above about *Society* is titled *A time for reflection*, but is actually an article reflecting on the life of a prominent member of Malaysia's legal fraternity that doesn't contain the type of reflection typical of his *Reflections*).
 
 We expect articles in the business section to be about *Society* much more than we expect them to be *Encouragement* or *Reflections*. I did a quick analysis to see how many of his articles from the business section (52 of them) the LDA process correctly classified as being about the *Society* topic.
 
