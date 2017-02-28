@@ -9,6 +9,6 @@ The repository contains the following scripts:
 * `word_clusters.R` computes distances between words and looks for neighboring words
 * `topic_modeling.R` builds a topic model of his writings
 
-All these are used to produce [*Predictably Comforting: The Writings of Soo Ewe Jin*](http://kevinsoo.github.io/kevinswx/BetweenTwoWaves/predictably-comforting-the-writings-of-soo-ewe-jin.html), a blog post reporting these analyses.
+All these are used to produce [*Predictably Comforting: The Writings of Soo Ewe Jin*](https://kevinsoo.github.io/BetweenTwoWaves/posts/predictably-comforting-the-writings-of-soo-ewe-jin.html), a blog post reporting these analyses.
 
 *This work is dedicated to Soo Ewe Jin (1959-2016).*
