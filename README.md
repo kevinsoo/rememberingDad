@@ -11,4 +11,4 @@ The repository contains the following scripts:
 
 All these are used to produce [*Predictably Comforting: The Writings of Soo Ewe Jin*](http://kevinsoo.github.io/kevinswx/BetweenTwoWaves/predictably-comforting-the-writings-of-soo-ewe-jin.html), a blog post reporting these analyses.
 
-*This work is dedicated to Soo Ewe Jin (1959--2016).*
+*This work is dedicated to Soo Ewe Jin (1959-2016).*
